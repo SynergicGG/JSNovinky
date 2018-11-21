@@ -1,2 +1,0 @@
-# JSNovinky
-Created with CodeSandbox
